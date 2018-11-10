@@ -1,0 +1,5 @@
+E:\POCs\DotNet\CSharpBasics\CSharpBasics\bin\Debug\CSharpBasics.exe.config
+E:\POCs\DotNet\CSharpBasics\CSharpBasics\bin\Debug\CSharpBasics.exe
+E:\POCs\DotNet\CSharpBasics\CSharpBasics\bin\Debug\CSharpBasics.pdb
+E:\POCs\DotNet\CSharpBasics\CSharpBasics\obj\Debug\CSharpBasics.exe
+E:\POCs\DotNet\CSharpBasics\CSharpBasics\obj\Debug\CSharpBasics.pdb
